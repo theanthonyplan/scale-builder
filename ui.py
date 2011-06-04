@@ -1,3 +1,7 @@
+#scale-builder ui and flow handler
+#anthony gagliardo 6-3-11
+#temp ui prompt and control structures
+#this handler should be updated to accommodate for new features
 from scaler import *
 
 def start():	
